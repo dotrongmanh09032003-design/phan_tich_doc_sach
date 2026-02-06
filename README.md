@@ -32,7 +32,7 @@ Trong thời đại số, dữ liệu về sách và hành vi đọc của ngư�
 - **Pandas** – xử lý dữ liệu
 - **NumPy** – hỗ trợ tính toán
 - **Matplotlib** – trực quan hóa dữ liệu
-- 
+  
 ## Các bước thực hiện
 
 ###  Load dữ liệu
